@@ -1,0 +1,6 @@
+@virtual_labaratory_HostAddress = http://localhost:5206
+
+GET {{virtual_labaratory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
